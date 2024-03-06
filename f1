@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is first file
 
 =======
 i this is test of f2 
 this is 2nd commit for f1
 >>>>>>> test1
+=======
+i this is test of f2 
+>>>>>>> pardd
+ent of 14ac912 (Revert "Revert "first commit for test"")
